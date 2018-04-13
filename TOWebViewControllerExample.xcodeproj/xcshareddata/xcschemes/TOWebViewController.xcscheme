@@ -9,14 +9,14 @@
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2282AEE61B2E473900BD92FC"
-               BuildableName = "TOWebViewControllerTests.xctest"
-               BlueprintName = "TOWebViewControllerTests"
+               BlueprintIdentifier = "D2A653CC1C7E86FC00566F54"
+               BuildableName = "TOWebViewController.framework"
+               BlueprintName = "TOWebViewController"
                ReferencedContainer = "container:TOWebViewControllerExample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,26 +29,7 @@
       language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2282AEE61B2E473900BD92FC"
-               BuildableName = "TOWebViewControllerTests.xctest"
-               BlueprintName = "TOWebViewControllerTests"
-               ReferencedContainer = "container:TOWebViewControllerExample.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2282AEE61B2E473900BD92FC"
-            BuildableName = "TOWebViewControllerTests.xctest"
-            BlueprintName = "TOWebViewControllerTests"
-            ReferencedContainer = "container:TOWebViewControllerExample.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -66,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2282AEE61B2E473900BD92FC"
-            BuildableName = "TOWebViewControllerTests.xctest"
-            BlueprintName = "TOWebViewControllerTests"
+            BlueprintIdentifier = "D2A653CC1C7E86FC00566F54"
+            BuildableName = "TOWebViewController.framework"
+            BlueprintName = "TOWebViewController"
             ReferencedContainer = "container:TOWebViewControllerExample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,9 +65,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2282AEE61B2E473900BD92FC"
-            BuildableName = "TOWebViewControllerTests.xctest"
-            BlueprintName = "TOWebViewControllerTests"
+            BlueprintIdentifier = "D2A653CC1C7E86FC00566F54"
+            BuildableName = "TOWebViewController.framework"
+            BlueprintName = "TOWebViewController"
             ReferencedContainer = "container:TOWebViewControllerExample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
